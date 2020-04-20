@@ -1,0 +1,1 @@
+This is EllenKal's first git project!
